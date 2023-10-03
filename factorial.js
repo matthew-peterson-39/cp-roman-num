@@ -12,4 +12,4 @@ function recursiveFactorial(current_num) {
 
 console.log(recursiveFactorial(5))
 
-//module.exports = factorial;
+module.exports = factorial;
